@@ -4,7 +4,7 @@ This project demonstrates how to perform real-time object detection using Python
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Requirements:
 - Python 3.6 or higher
 - OpenCV library
 - NumPy library
