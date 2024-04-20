@@ -17,3 +17,7 @@ Future Enhancements
     Add more color detections.
     Improve object tracking accuracy.
     Implement a user interface to change the target color dynamically.
+
+Result
+
+![image](https://github.com/shubhInsync/computer-vision/assets/133818351/1a014fbe-8eaf-48d5-8618-69ca2292f274)
